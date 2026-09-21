@@ -1,5 +1,20 @@
 # healthcare-his
 
+<!-- NEXUS_PROJECT_META_START -->
+
+## Project Management
+
+| Field | Value |
+| --- | --- |
+| Status | 🟡 Planning |
+| Project Lead | TBD |
+| Team / Support | Healthcare HIS TF |
+| Next Milestone | 사용자·업무 흐름 및 1차 요구사항 정의 |
+| Registry | [NEXUS Project Registry](https://github.com/paichai-nexus/nexus-project-registry) |
+
+<!-- NEXUS_PROJECT_META_END -->
+
+
 PAICHAI NEXUS Student Project
 
 ## Overview
